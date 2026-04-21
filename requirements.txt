@@ -1,0 +1,7 @@
+random
+copy
+pandas
+matplotlib.pyplot
+sklearn.metrics f1_score
+numpy
+stanza
